@@ -1,0 +1,306 @@
+transaction_id,ts,user_id,country,city,product_id,category,subcategory,unit_price,qty,discount_code,payment_type,device,channel,referrer,is_return,return_date,status,notes,coupon_value,shipping_cost
+# Jeu de données synthétique ventes multicanal
+# Encodage: UTF-8 ; Les lignes commençant par # sont des commentaires à ignorer
+# Certaines lignes sont volontairement malformées pour tester la robustesse des parseurs
+Sw2dGHa20EAz,2025-10-18 18:04:41,1893,MA,Casablanca,1205,Sport,Cyclisme,15.35,1,,crypto,desktop,web,friend,0,,pending,"Livraison express, signature exigée",0.0,12.46
+vXIVWkmygqdz,2025-10-25 15:32:39,1211,FR,Lyon,1283,Beauté,Cheveux,13.21,5,,card,tablet,marketplace,friend,0,,paid,,0.0,1.95
+L8xBmDsiySow,2025-10-18 00:08:34,1671,US,San Francisco,1081,Maison,Décoration,29.33,-2,WELCOME10,paypal,mobile,web,google,1,2025-11-09,paid,,0.49,8.68
+MyDoZXlGWfew,2025-10-19 11:27:20,730,DE,Berlin,1103,Maison,Literie,16.43,5,,card,mobile,boutique,friend,0,,refunded,,0.0,0.16
+8s3xShB5AQib,2025-10-22 19:37:43,1565,CA,Montréal,1290,Beauté,Cheveux,22.11,5,STUDENT,card,mobile,web,tiktok,0,,paid,,2.87,3.49
+zLRUb8kMN27X,2025-10-25 16:38:02,813,MA,Rabat,1110,Maison,Literie,9.4,1,WELCOME10,crypto,mobile,app,direct,0,,paid,,5.8,1.0
+u0RkkTN1UHfp,2025-10-21 03:57:12,399,US,San Francisco,1265,Beauté,Maquillage,13.15,1,,paypal,desktop,app,friend,0,,paid,,0.0,6.23
+ksJNttSVHfdU,2025-10-23 04:18:55,590,CA,Ottawa,1222,Sport,Randonnée,34.57,1,STUDENT,crypto,mobile,boutique,tiktok,0,,pending,,3.37,9.42
+gP2XIPJXySM9,2025-10-16 15:03:37,1605,FR,Toulouse,1018,Électronique,Téléphones,15.58,1,ÉTÉ2025,card,mobile,web,tiktok,0,,paid,,8.81,6.96
+ykt7Rx0RQrXB,2025-10-20 23:16:33,995,FR,Paris,1200,Sport,Cyclisme,29.34,1,,card,mobile,web,friend,0,,paid,,0.0,7.68
+2HLe9OJsNP5i,2025-10-17 21:11:56,619,DE,Hamburg,1200,Sport,Cyclisme,29.34,1,,crypto,tablet,app,direct,0,,paid,"Nom cont… ""Dupont, Jean""",0.0,3.86
+faeJOmrp4Q62,2025-10-23 05:06:50,782,MA,Casablanca,1259,Beauté,Soins,36.14,1,,card,desktop,marketplace,friend,0,,pending,,0.0,13.83
+HqpHH0tYdBW4,2025-10-21 04:39:44,769,MA,Marrakech,1179,Mode,Accessoires,95.59,1,,interac,mobile,app,newsletter,0,,paid,,0.0,8.44
+0w2X8iZKdKpj,2025-10-23 17:06:51,1584,FR,Toulouse,1073,Maison,Cuisine,53.64,1,BLACKFRIDAY,crypto,desktop,web,tiktok,0,,paid,,7.09,16.68
+MzvDXfhR7Vjb,2025-10-23 00:14:50,1525,DE,Berlin,1120,Mode,Chaussures,36.43,5,,crypto,desktop,web,newsletter,0,,paid,,0.0,9.19
+xaObonxHaoIs,2025-10-24 02:09:37,1906,MA,Rabat,1169,Mode,Accessoires,16.83,1,BLACKFRIDAY,paypal,desktop,app,instagram,0,,paid,,3.85,11.46
+IZEAki2J1rsp,2025-10-24 14:12:41,1166,FR,Marseille,1210,Sport,Cyclisme,32.64,3,STUDENT,card,desktop,app,direct,0,,paid,,5.71,7.72
+Vn07j3aW4p4S,2025-10-18 13:55:23,1980,CA,Gatineau,1297,Beauté,Cheveux,28.61,1,,interac,desktop,boutique,instagram,0,,paid,,0.0,10.73
+RLCAZBMAFMRy,2025-10-17 12:42:37,1431,MA,Casablanca,1142,Mode,Vêtements,10.98,1,,card,mobile,web,friend,0,,paid,,0.0,0.0
+hKnmeGrGsIxo,2025-10-24 01:53:05,22,FR,Toulouse,1196,Sport,Fitness,15.77,2,WELCOME10,paypal,mobile,app,instagram,0,,paid,,4.76,5.24
+ohXHXPdylvzj,2025-10-19 07:35:46,1989,DE,Berlin,1263,Beauté,Maquillage,14.7,5,BLACKFRIDAY,card,mobile,app,direct,0,,paid,⚠️ Douanes: formulaire requis,5.34,3.78
+HCmDkzF5rqsa,2025-10-21 19:44:16,1201,FR,Lyon,1055,Électronique,Tablettes,39.08,2,,card,mobile,web,friend,0,,failed,"Adresse incomplète, revoir 📦",0.0,11.04
+fKQmCSjWoLhm,2025-10-23 22:03:14,628,MA,Casablanca,1011,Électronique,Téléphones,19.44,1,,interac,mobile,web,friend,0,,paid,⚠️ Douanes: formulaire requis,0.0,4.06
+N5B0YuODC3mS,2025-10-20 07:04:45,152,US,Seattle,1051,Électronique,Tablettes,20.24,1,,card,desktop,web,newsletter,0,,pending,,0.0,10.23
+8qXfcq2k84j6,2025-10-19 01:18:36,181,FR,Toulouse,1138,Mode,Chaussures,36.85,1,,crypto,mobile,marketplace,direct,0,,paid,,0.0,8.74
+uQu1Jqt5eHVp,2025-10-24 20:01:21,1750,FR,Toulouse,1118,Maison,Literie,43.44,1,,paypal,desktop,app,direct,0,,pending,,0.0,1.95
+pwa9MYLQLNHq,2025-10-16 01:04:10,1719,CA,Québec,1069,Maison,Cuisine,17.77,1,,paypal,mobile,web,instagram,0,,failed,,0.0,0.0
+UdQEWjGOJgvo,2025-10-23 18:26:57,968,FR,Paris,1242,Beauté,Soins,31.58,5,,crypto,mobile,web,friend,0,,paid,,0.0,6.76
+8M2I8TeQnPKe,2025-10-16 09:45:13,1207,MA,Marrakech,1007,Électronique,Téléphones,36.01,1,,crypto,mobile,web,google,0,,paid,⚠️ Douanes: formulaire requis,0.0,12.39
+ui4O2XO9X0NI,2025-10-16 09:12:05,1248,DE,Berlin,1201,Sport,Cyclisme,32.47,1,,interac,desktop,web,instagram,0,,paid,,0.0,8.53
+mEAWh6mWnwtW,2025-10-23 16:28:00,582,FR,Marseille,1249,Beauté,Soins,30.04,1,,crypto,mobile,marketplace,tiktok,0,,failed,,0.0,3.82
+MLuCANUss5VB,2025-10-25 19:16:12,447,DE,Munich,1178,Mode,Accessoires,21.49,2,,paypal,mobile,web,instagram,0,,paid,,0.0,3.42
+BADROW,2025-13-40 25:61:61,???,"",,,"Électronique","Téléphones",9999,1,,,mobile,web,google,0,,"paid","ligne invalide
+NOU8qLagke9c,2025-10-22 07:00:07,598,US,New York,1186,Sport,Fitness,31.08,3,BLACKFRIDAY,crypto,mobile,app,google,0,,paid,,5.9,9.72
+guceCbzTLdOC,2025-10-24 10:40:10,1861,CA,Montréal,1149,Mode,Vêtements,28.46,1,WELCOME10,card,mobile,app,google,0,,paid,,4.56,13.68
+4tURCOzD7noW,2025-10-25 01:07:13,1865,DE,Munich,1175,Mode,Accessoires,37.1,1,WELCOME10,card,mobile,app,tiktok,0,,paid,,5.55,5.31
+s9UACYe0DWzb,2025-10-24 00:25:20,305,MA,Casablanca,1015,Électronique,Téléphones,18.52,1,,crypto,desktop,web,instagram,0,,paid,"Livraison express, signature exigée",0.0,9.59
+sL1xG9Bzwv7g,2025-10-21 09:21:55,18,CA,Gatineau,1140,Mode,Vêtements,27.49,3,WELCOME10,crypto,mobile,web,tiktok,0,,failed,,6.84,9.81
+PcCFqSslJtck,2025-10-24 17:51:24,929,DE,Munich,1265,Beauté,Maquillage,13.15,1,,paypal,mobile,web,tiktok,0,,paid,,0.0,5.93
+QnOJXadygMKu,2025-10-23 14:35:41,170,CA,Gatineau,1256,Beauté,Soins,46.22,1,,crypto,mobile,app,friend,0,,paid,,0.0,7.31
+L4H0EDQL94Tp,2025-10-20 16:25:09,457,US,Boston,1164,Mode,Accessoires,39.71,2,BLACKFRIDAY,paypal,desktop,app,friend,0,,paid,"Livraison express, signature exigée",10.56,12.75
+ir5XrAI32vaQ,2025-10-24 01:27:45,584,US,New York,1051,Électronique,Tablettes,20.24,5,,interac,mobile,app,direct,0,,paid,,0.0,6.14
+sK4HcatMZiLq,2025-10-25 03:59:03,1887,MA,Casablanca,1067,Maison,Cuisine,40.52,1,WELCOME10,interac,mobile,app,direct,0,,paid,,3.95,2.06
+ywewSLYI8bAR,2025-10-19 06:17:12,912,CA,Toronto,1201,Sport,Cyclisme,32.47,5,,card,mobile,web,google,0,,paid,,0.0,10.2
+SG7YfIqfP7TC,2025-10-24 02:08:04,1354,CA,Toronto,1136,Mode,Chaussures,16.58,1,STUDENT,interac,mobile,web,newsletter,0,,paid,,7.85,9.37
+mMEuWgGDmYQ9,2025-10-21 21:53:42,893,FR,Paris,1199,Sport,Fitness,13.85,5,BLACKFRIDAY,interac,desktop,web,tiktok,0,,paid,,7.34,3.25
+kM7KHgp8Vmjm,2025-10-24 05:35:35,782,DE,Hamburg,1173,Mode,Accessoires,29.1,1,BLACKFRIDAY,paypal,mobile,app,tiktok,0,,paid,,2.21,7.0
+ZeTaQ5yWIbnF,2025-10-25 21:37:53,1805,US,New York,1256,Beauté,Soins,46.22,1,,crypto,mobile,web,direct,0,,failed,,0.0,6.96
+xS9lF934mbnf,2025-10-19 01:40:30,1013,US,Seattle,1272,Beauté,Maquillage,43.89,1,,paypal,desktop,boutique,google,0,,pending,,0.0,8.56
+fC2WHMEDMrfd,2025-10-19 03:23:37,1180,CA,Québec,1295,Beauté,Cheveux,17.35,1,,card,mobile,marketplace,instagram,0,,paid,,0.0,0.57
+B5mtV7jWKZSo,2025-10-25 07:52:59,817,US,Seattle,1094,Maison,Décoration,20.16,3,ÉTÉ2025,card,mobile,app,direct,0,,paid,,6.33,6.41
+sGWRx3jQWjdt,2025-10-22 02:18:40,113,FR,Marseille,1110,Maison,Literie,9.4,5,,interac,mobile,web,instagram,0,,paid,,0.0,6.96
+yNVTWhGvG6Gm,2025-10-21 05:28:14,1295,FR,Lyon,1010,Électronique,Téléphones,19.46,1,,paypal,desktop,web,google,0,,paid,,0.0,11.77
+lcPfh79KKwO0,2025-10-18 20:17:46,287,DE,Hamburg,1042,Électronique,Tablettes,23.15,3,STUDENT,card,mobile,boutique,friend,0,,paid,,9.35,10.86
+hsBRD9KxofEd,2025-10-23 19:42:06,750,FR,Lyon,1217,Sport,Cyclisme,21.79,1,,card,mobile,web,google,0,,paid,,0.0,6.89
+bwan0zdfbZ3w,2025-10-23 02:49:58,280,CA,Vancouver,1298,Beauté,Cheveux,36.83,1,ÉTÉ2025,paypal,mobile,web,instagram,0,,paid,,9.1,8.24
+crF6AVPsSYMV,2025-10-25 00:35:05,1342,MA,Marrakech,1028,Électronique,Écouteurs,18.17,1,WELCOME10,paypal,mobile,boutique,instagram,0,,paid,"Adresse incomplète, revoir 📦",4.19,9.55
+lPqLspdtlEzW,2025-10-20 03:25:23,1035,MA,Rabat,1136,Mode,Chaussures,16.58,2,,paypal,tablet,app,google,0,,paid,,0.0,7.59
+yCZPkaEjB6ii,2025-10-25 03:11:17,231,US,New York,1081,Maison,Décoration,29.33,1,ÉTÉ2025,paypal,mobile,boutique,direct,0,,paid,,7.08,8.27
+VeOFDZ6V56Xp,2025-10-21 21:41:10,415,FR,Lyon,1134,Mode,Chaussures,15.49,1,,card,mobile,app,google,0,,paid,,0.0,16.94
+pv7M2tb7AEQN,2025-10-17 18:58:40,1106,FR,Toulouse,1261,Beauté,Maquillage,23.81,1,,card,mobile,app,instagram,0,,paid,,0.0,5.61
+WQjmVmgxD9UU,2025-10-19 14:36:50,776,US,Boston,1071,Maison,Cuisine,52.93,1,STUDENT,card,mobile,web,google,0,,paid,,1.85,8.59
+kGkCKyo8MJaK,2025-10-25 12:17:37,1678,CA,Montréal,1182,Sport,Fitness,14.36,3,,crypto,desktop,marketplace,google,0,,paid,,0.0,10.7
+u2RWXFDdKEtF,2025-10-16 17:43:20,40,CA,Ottawa,1057,Électronique,Tablettes,21.02,3,WELCOME10,crypto,mobile,web,newsletter,0,,paid,,5.11,10.17
+13FDrsG4fDqW,2025-10-17 13:14:16,101,DE,Hamburg,1182,Sport,Fitness,14.36,2,ÉTÉ2025,card,desktop,boutique,instagram,0,,paid,,4.24,11.69
+p6nqJW5SHwyl,2025-10-25 16:14:29,631,US,Boston,1189,Sport,Fitness,11.5,1,,card,mobile,web,tiktok,0,,paid,,0.0,10.04
+K81NvYcr3dNL,2025-10-24 09:18:44,1663,DE,Berlin,1038,Électronique,Écouteurs,12.63,1,,card,mobile,app,direct,0,,paid,,0.0,7.02
+lwkNgd4fQ9D1,2025-10-23 18:39:41,1998,US,Boston,1191,Sport,Fitness,37.64,1,,interac,tablet,app,instagram,0,,paid,"Livraison express, signature exigée",0.0,3.53
+0W0OxuGTEw5n,2025-10-19 07:07:53,628,CA,Vancouver,1001,Électronique,Téléphones,22.89,1,ÉTÉ2025,card,mobile,boutique,instagram,0,,paid,,4.2,13.9
+0BAHOWgySsfF,2025-10-17 03:28:50,1756,CA,Montréal,1106,Maison,Literie,63.0,1,STUDENT,card,mobile,web,direct,0,,paid,,5.44,7.73
+6aSYN2iA6xWn,2025-10-24 08:05:08,414,DE,Berlin,1092,Maison,Décoration,17.27,1,STUDENT,interac,tablet,boutique,tiktok,0,,paid,,6.83,6.36
+jFiakp7ZiRVg,2025-10-17 18:48:26,1893,MA,Rabat,1054,Électronique,Tablettes,41.08,1,,interac,mobile,app,direct,0,,paid,,0.0,12.06
+efItkyVcmml4,2025-10-24 03:51:54,87,CA,Québec,1212,Sport,Cyclisme,39.53,5,STUDENT,paypal,desktop,app,tiktok,0,,paid,,5.89,7.37
+WTJxCrGNGY3t,2025-10-19 20:52:36,1554,US,New York,1109,Maison,Literie,23.64,-1,,card,mobile,marketplace,friend,1,2025-11-08,paid,,0.0,5.19
+OuOTbw93aQZP,2025-10-16 04:39:54,1194,MA,Rabat,1024,Électronique,Écouteurs,18.69,1,,card,mobile,web,instagram,0,,paid,,0.0,5.44
+9UJePsYl8yCJ,2025-10-16 03:17:24,300,CA,Toronto,1155,Mode,Vêtements,17.16,1,ÉTÉ2025,crypto,mobile,boutique,google,0,,paid,,10.42,12.45
+4YmwrebLyyTr,2025-10-25 14:12:17,805,US,New York,1007,Électronique,Téléphones,36.01,3,,crypto,desktop,web,newsletter,0,,paid,,0.0,7.36
+OgfJeuUhMtyf,2025-10-20 19:01:10,1028,CA,Vancouver,1146,Mode,Vêtements,13.22,1,,crypto,mobile,boutique,instagram,0,,paid,,0.0,8.19
+beqmaI9bQxz5,2025-10-24 07:29:11,1893,MA,Marrakech,1205,Sport,Cyclisme,15.35,5,,paypal,desktop,app,google,0,,paid,,0.0,8.45
+NSQTWmUt2yPr,2025-10-24 08:34:17,3,FR,Toulouse,1156,Mode,Vêtements,62.36,-2,ÉTÉ2025,crypto,mobile,web,friend,1,2025-11-02,paid,,7.96,12.93
+bJ5JrmZpBEE6,2025-10-23 17:58:47,524,US,New York,1244,Beauté,Soins,13.46,5,STUDENT,crypto,desktop,marketplace,friend,0,,paid,,7.28,8.72
+B7D3dyygMSJI,2025-10-23 10:46:23,1342,MA,Casablanca,1151,Mode,Vêtements,29.17,1,,crypto,tablet,marketplace,friend,0,,paid,,0.0,2.61
+EZkRsHeWXqOX,2025-10-21 11:23:21,509,FR,Marseille,1018,Électronique,Téléphones,15.58,3,BLACKFRIDAY,crypto,mobile,app,newsletter,0,,paid,,5.2,5.52
+DoTSOyCJIO9k,2025-10-20 14:59:33,1563,DE,Munich,1002,Électronique,Téléphones,33.91,2,,crypto,desktop,web,instagram,0,,paid,,0.0,13.02
+69Id9GJZgbfB,2025-10-20 20:42:58,1263,CA,Québec,1104,Maison,Literie,22.63,3,STUDENT,crypto,desktop,web,instagram,0,,paid,,6.72,13.17
+v3z8484i523R,2025-10-25 15:13:51,393,US,New York,1153,Mode,Vêtements,27.55,1,BLACKFRIDAY,paypal,desktop,boutique,tiktok,0,,paid,,11.36,4.05
+dEHa36q1uYB0,2025-10-22 14:16:53,973,CA,Gatineau,1140,Mode,Vêtements,27.49,3,BLACKFRIDAY,crypto,desktop,web,direct,0,,paid,,4.2,5.29
+Hwnq059qUJuL,2025-10-18 21:27:21,1027,CA,Québec,1026,Électronique,Écouteurs,13.8,2,WELCOME10,card,desktop,boutique,google,0,,paid,,4.85,5.54
+7cUUDqRN1EQE,2025-10-20 07:38:39,1986,MA,Rabat,1145,Mode,Vêtements,36.27,1,,interac,desktop,app,newsletter,0,,paid,,0.0,13.2
+ABj0ikQq623n,2025-10-25 01:45:41,1409,MA,Casablanca,1213,Sport,Cyclisme,33.98,1,STUDENT,interac,desktop,boutique,tiktok,0,,paid,,6.06,3.4
+mElujuoIeuOt,2025-10-25 02:51:21,418,FR,Marseille,1268,Beauté,Maquillage,19.69,1,STUDENT,paypal,desktop,app,instagram,0,,pending,,7.41,13.15
+j883xfpJRsyI,2025-10-22 08:00:52,1575,MA,Marrakech,1258,Beauté,Soins,30.63,1,WELCOME10,crypto,desktop,web,newsletter,0,,paid,"Nom cont… ""Dupont, Jean""",1.92,4.42
+hFgwdVrYIFCA,2025-10-22 09:38:29,1752,CA,Ottawa,1020,Électronique,Écouteurs,51.05,2,BLACKFRIDAY,crypto,mobile,web,newsletter,0,,paid,,5.63,1.11
+B4fkZKwk1KF6,2025-10-18 08:02:41,1694,MA,Casablanca,1240,Beauté,Soins,16.51,1,,paypal,mobile,web,newsletter,0,,paid,,0.0,3.0
+KYfVFrIMTpEA,2025-10-18 20:56:19,829,DE,Berlin,1081,Maison,Décoration,29.33,1,,card,desktop,app,direct,0,,paid,,0.0,13.07
+611VPJRrzIy5,2025-10-20 23:29:03,480,US,San Francisco,1023,Électronique,Écouteurs,12.03,1,,paypal,mobile,app,friend,0,,pending,,0.0,6.23
+gSClKjpn9lOa,2025-10-24 11:45:01,770,MA,Rabat,1246,Beauté,Soins,19.35,1,,card,mobile,web,google,0,,paid,,0.0,8.63
+GbQFXTwc2DRN,2025-10-19 06:19:38,340,DE,Berlin,1090,Maison,Décoration,25.75,1,,paypal,mobile,web,tiktok,0,,paid,,0.0,3.31
+yA9rJaS17rBK,2025-10-21 18:57:00,830,MA,Casablanca,1041,Électronique,Tablettes,26.73,1,,interac,desktop,app,direct,0,,paid,,0.0,4.48
+G09Of8UDER3m,2025-10-18 02:00:11,215,CA,Vancouver,1023,Électronique,Écouteurs,12.03,1,,card,mobile,app,tiktok,0,,paid,,0.0,6.75
+zhzEiR66JNoW,2025-10-19 03:18:04,1999,DE,Berlin,1275,Beauté,Maquillage,30.91,3,,crypto,desktop,app,tiktok,0,,paid,,0.0,10.68
+wQq8CNWaGrXu,2025-10-17 02:12:48,1613,US,Boston,1063,Maison,Cuisine,13.49,1,STUDENT,card,mobile,web,instagram,0,,paid,,1.14,7.09
+cNp5sZQ1X9J2,2025-10-19 14:37:31,1067,FR,Marseille,1255,Beauté,Soins,19.26,3,WELCOME10,paypal,mobile,web,direct,0,,pending,,6.36,4.85
+DuIeTVk0UoDT,2025-10-21 05:02:28,1488,DE,Berlin,1048,Électronique,Tablettes,29.13,1,WELCOME10,paypal,desktop,web,tiktok,0,,paid,,5.19,14.57
+cdMo02ET5bby,2025-10-22 02:13:51,1677,DE,Berlin,1129,Mode,Chaussures,19.07,1,,paypal,mobile,web,direct,0,,pending,,0.0,4.34
+A0PQawB2lLi1,2025-10-22 04:08:42,88,DE,Hamburg,1047,Électronique,Tablettes,41.62,3,BLACKFRIDAY,paypal,desktop,app,direct,0,,paid,,5.1,10.11
+Zf5w5xauCmOA,2025-10-21 10:23:35,606,MA,Rabat,1218,Sport,Cyclisme,19.25,1,,crypto,mobile,web,instagram,0,,paid,,0.0,0.68
+eGJAbe7zBmZx,2025-10-24 20:59:00,1187,MA,Rabat,1066,Maison,Cuisine,23.66,1,,card,mobile,app,google,0,,paid,,0.0,13.57
+KkDUfKdZ6lvO,2025-10-21 13:04:55,1788,FR,Lyon,1041,Électronique,Tablettes,26.73,1,BLACKFRIDAY,interac,mobile,marketplace,google,0,,paid,"Client a dit: ""excellent, merci !""",3.07,0.48
+7fEx8VG0zYWX,2025-10-22 02:58:20,1912,DE,Munich,1282,Beauté,Cheveux,54.22,1,STUDENT,crypto,desktop,web,tiktok,0,,failed,,7.22,9.71
+B86PZYG6rZZ5,2025-10-18 16:45:55,1627,CA,Montréal,1164,Mode,Accessoires,39.71,1,,interac,mobile,web,instagram,0,,paid,,0.0,11.28
+ytwWL5xPDuFx,2025-10-25 13:33:03,1677,MA,Marrakech,1101,Maison,Literie,19.88,1,,crypto,desktop,app,friend,0,,pending,,0.0,4.54
+EJ2J61jxrZuK,2025-10-23 21:46:20,1491,US,San Francisco,1100,Maison,Literie,12.09,1,STUDENT,paypal,mobile,web,direct,0,,paid,,6.73,9.15
+SuVy2jebOxok,2025-10-22 15:36:24,1623,FR,Paris,1216,Sport,Cyclisme,16.67,1,STUDENT,crypto,mobile,web,friend,0,,paid,,7.06,9.71
+JQo0PXc52QXn,2025-10-20 07:55:31,449,US,New York,1267,Beauté,Maquillage,12.0,5,STUDENT,crypto,mobile,web,newsletter,0,,paid,,1.99,0.0
+BRomosMiBfvo,2025-10-21 08:37:32,1900,US,San Francisco,1076,Maison,Cuisine,25.62,5,,card,desktop,app,google,0,,paid,,0.0,4.43
+Azr4KMhjqCbK,2025-10-17 17:59:51,1124,US,Seattle,1098,Maison,Décoration,24.6,2,,interac,mobile,web,newsletter,0,,failed,,0.0,8.68
+HRj6gYYfT4Kd,2025-10-20 08:09:47,654,FR,Paris,1275,Beauté,Maquillage,30.91,1,,crypto,tablet,app,tiktok,0,,paid,,0.0,8.01
+Q6kzWnlYWBJo,2025-10-16 10:13:35,1888,US,New York,1075,Maison,Cuisine,37.0,1,,interac,mobile,marketplace,direct,0,,paid,,0.0,3.57
+elhp8wSfsKih,2025-10-21 04:22:56,757,CA,Ottawa,1124,Mode,Chaussures,32.9,5,,card,desktop,app,instagram,0,,paid,,0.0,10.93
+4udhP1eUBdm2,2025-10-24 08:17:11,1323,MA,Marrakech,1216,Sport,Cyclisme,16.67,1,ÉTÉ2025,interac,desktop,web,tiktok,0,,refunded,,3.27,9.57
+ZC1jcyJ2z5WD,2025-10-17 06:22:04,1231,CA,Montréal,1070,Maison,Cuisine,29.39,3,ÉTÉ2025,crypto,mobile,web,tiktok,0,,paid,,5.4,12.26
+CRKRVTRrWhgR,2025-10-22 05:56:40,653,FR,Lyon,1152,Mode,Vêtements,17.46,1,ÉTÉ2025,card,desktop,web,direct,0,,paid,,2.12,11.43
+WNGJ45U4hj10,2025-10-19 17:40:00,15,CA,Québec,1076,Maison,Cuisine,25.62,5,ÉTÉ2025,interac,tablet,web,newsletter,0,,paid,,0.51,10.13
+9PEVski1weOn,2025-10-23 08:04:53,1293,MA,Casablanca,1120,Mode,Chaussures,36.43,1,BLACKFRIDAY,card,desktop,web,direct,0,,paid,"Livraison express, signature exigée",6.32,4.9
+XjuSFRZbp2oR,2025-10-22 07:39:08,582,MA,Casablanca,1219,Sport,Cyclisme,25.56,1,,interac,tablet,marketplace,tiktok,0,,paid,,0.0,8.89
+5Ku4T0hjieoq,2025-10-22 18:58:45,346,US,San Francisco,1033,Électronique,Écouteurs,14.46,1,STUDENT,card,desktop,web,friend,0,,paid,,3.62,2.55
+HmKMRxT57d60,2025-10-20 02:52:49,631,CA,Montréal,1022,Électronique,Écouteurs,25.37,1,ÉTÉ2025,crypto,desktop,marketplace,instagram,0,,paid,,3.29,5.02
+jXG1F31ChCoW,2025-10-17 08:02:35,536,US,Boston,1021,Électronique,Écouteurs,21.91,1,STUDENT,paypal,tablet,app,newsletter,0,,paid,,0.97,3.63
+ATNI4gDdhyCX,2025-10-24 15:18:09,289,FR,Lyon,1045,Électronique,Tablettes,17.12,1,,interac,mobile,web,tiktok,0,,paid,,0.0,12.3
+b146WGFyuoTQ,2025-10-21 03:49:02,1322,DE,Hamburg,1294,Beauté,Cheveux,29.33,2,,interac,mobile,web,google,0,,paid,"Adresse incomplète, revoir 📦",0.0,5.97
+LOOtNPI4dnfO,2025-10-21 01:57:36,1798,FR,Paris,1074,Maison,Cuisine,6.62,2,,paypal,tablet,app,tiktok,0,,pending,,0.0,6.07
+SCJIQnLwzJDE,2025-10-20 14:06:24,1582,FR,Toulouse,1213,Sport,Cyclisme,33.98,5,WELCOME10,card,mobile,app,tiktok,0,,paid,,2.63,1.64
+3pVNH3BWdO21,2025-10-25 17:30:26,1914,US,Seattle,1066,Maison,Cuisine,23.66,1,ÉTÉ2025,crypto,desktop,web,instagram,0,,pending,,7.84,7.44
+62ev95g4kgcI,2025-10-20 00:35:16,408,US,Seattle,1065,Maison,Cuisine,48.33,2,BLACKFRIDAY,paypal,mobile,web,friend,0,,pending,,3.21,2.47
+sqvQ90SkkO3J,2025-10-22 19:09:32,1572,US,New York,1156,Mode,Vêtements,62.36,1,,crypto,desktop,app,direct,0,,paid,,0.0,6.96
+S75wFxEfzASB,2025-10-17 09:40:20,1904,US,Seattle,1222,Sport,Randonnée,34.57,2,,paypal,mobile,marketplace,instagram,0,,paid,,0.0,5.4
+XOW0dS4HM74G,2025-10-16 00:08:20,400,DE,Munich,1186,Sport,Fitness,31.08,5,,crypto,desktop,web,direct,0,,paid,,0.0,0.0
+gpqCz9KKePpK,2025-10-16 02:13:17,354,DE,Munich,1073,Maison,Cuisine,53.64,1,ÉTÉ2025,interac,desktop,app,newsletter,0,,paid,,2.47,9.52
+C94rWKk9amax,2025-10-24 07:35:10,1684,CA,Toronto,1183,Sport,Fitness,31.23,2,BLACKFRIDAY,interac,mobile,app,google,0,,failed,,4.57,13.18
+KitZjTmdGruN,2025-10-23 17:05:43,604,MA,Rabat,1248,Beauté,Soins,59.31,5,BLACKFRIDAY,paypal,tablet,app,direct,0,,refunded,,4.07,1.67
+ULxays80jUzv,2025-10-24 11:09:48,1844,MA,Rabat,1134,Mode,Chaussures,15.49,2,,interac,mobile,app,tiktok,0,,failed,"Promo appliquée, vérifier le cumul",0.0,7.68
+yjvbD5ZNnUBm,2025-10-24 11:34:48,1275,FR,Marseille,1097,Maison,Décoration,27.95,1,,card,mobile,app,tiktok,0,,paid,,0.0,8.59
+C94rWKk9amax,2025-10-18 08:13:54,672,US,Seattle,1100,Maison,Literie,12.09,1,,crypto,desktop,marketplace,tiktok,0,,pending,,0.0,6.08
+zku2NL8ezQ6C,2025-10-17 23:28:08,569,CA,Ottawa,1070,Maison,Cuisine,29.39,5,,paypal,desktop,web,instagram,0,,paid,"Client a dit: ""excellent, merci !""",0.0,6.26
+gIC3UJ2xSFXC,2025-10-24 11:32:11,1776,FR,Lyon,1257,Beauté,Soins,17.22,2,ÉTÉ2025,paypal,tablet,web,newsletter,0,,paid,,6.26,4.93
+I2PRIpI80Zjn,2025-10-19 16:46:37,1867,US,Boston,1173,Mode,Accessoires,29.1,1,ÉTÉ2025,interac,desktop,web,direct,0,,paid,,3.81,1.5
+7GqjSPziZKwM,2025-10-19 09:05:11,96,MA,Casablanca,1052,Électronique,Tablettes,17.49,1,BLACKFRIDAY,card,mobile,web,instagram,0,,paid,,10.84,4.69
+zzpdqXnvNLs3,2025-10-23 21:38:12,1691,DE,Munich,1151,Mode,Vêtements,29.17,-3,,crypto,desktop,web,friend,1,2025-10-31,paid,,0.0,7.66
+sMlDHanFweZA,2025-10-17 05:19:25,461,FR,Lyon,1041,Électronique,Tablettes,26.73,1,STUDENT,crypto,mobile,web,google,0,,paid,,2.61,6.61
+fOhJRjt0rNof,2025-10-19 06:26:30,1268,MA,Rabat,1289,Beauté,Cheveux,17.97,3,BLACKFRIDAY,paypal,mobile,web,newsletter,0,,pending,,6.52,13.87
+CsarbcvTNecs,2025-10-25 16:25:12,1298,FR,Marseille,1290,Beauté,Cheveux,22.11,2,,card,mobile,marketplace,friend,0,,paid,,0.0,1.24
+1peOVTw0XxBB,2025-10-16 20:38:46,862,US,San Francisco,1221,Sport,Randonnée,9.64,3,BLACKFRIDAY,crypto,mobile,web,friend,0,,paid,,3.48,8.35
+8m8iiw0274hw,2025-10-23 03:51:44,536,CA,Toronto,1170,Mode,Accessoires,15.72,5,,paypal,mobile,boutique,friend,0,,paid,,0.0,7.0
+61Nu8dj20e8Q,2025-10-24 12:39:10,1568,DE,Munich,1214,Sport,Cyclisme,20.95,1,,card,mobile,web,newsletter,0,,paid,,0.0,6.62
+B3DSGC6iCcJj,2025-10-20 19:49:33,1505,FR,Toulouse,1124,Mode,Chaussures,32.9,5,,crypto,mobile,app,tiktok,0,,paid,,0.0,7.43
+83glpvBUyNkD,2025-10-19 13:54:06,1219,US,Boston,1112,Maison,Literie,25.28,5,,card,desktop,web,tiktok,0,,paid,,0.0,13.39
+GCuVCHYQGRKx,2025-10-25 22:36:07,373,MA,Rabat,1251,Beauté,Soins,38.82,1,,card,desktop,web,friend,0,,paid,,0.0,8.04
+Q0cPuUP1iyPG,2025-10-17 17:55:02,1512,FR,Marseille,1221,Sport,Randonnée,9.64,1,STUDENT,paypal,desktop,marketplace,newsletter,0,,refunded,,4.65,7.97
+HmuH9ud0oXZi,2025-10-20 19:43:52,1632,CA,Québec,1205,Sport,Cyclisme,15.35,1,WELCOME10,card,desktop,app,newsletter,0,,paid,,5.78,7.46
+MONbGjqgvuMK,2025-10-21 15:43:00,1077,DE,Munich,1154,Mode,Vêtements,28.4,1,,interac,mobile,web,newsletter,0,,paid,,0.0,10.2
+#,commentaire isolé,à ignorer,,,,,,,,,,,,,,,,
+jdyJg3VKbbNI,2025-10-18 14:51:13,63,US,San Francisco,1176,Mode,Accessoires,24.69,1,,paypal,mobile,app,tiktok,0,,paid,⚠️ Douanes: formulaire requis,0.0,3.23
+C08DC8rPlDya,2025-10-18 12:42:43,1252,MA,Rabat,1096,Maison,Décoration,28.45,1,,crypto,desktop,app,instagram,0,,paid,,0.0,12.82
+TruwlzLrCnoW,2025-10-24 06:30:00,1459,US,San Francisco,1293,Beauté,Cheveux,37.52,5,,interac,mobile,app,tiktok,0,,paid,"Promo appliquée, vérifier le cumul",0.0,10.84
+0ZGACw1f5NI3,2025-10-16 07:24:27,1107,CA,Montréal,1169,Mode,Accessoires,16.83,1,,paypal,desktop,app,friend,0,,paid,,0.0,9.04
+jxmoZfUD2fNh,2025-10-18 16:56:47,978,FR,Lyon,1205,Sport,Cyclisme,15.35,1,,crypto,mobile,marketplace,direct,0,,paid,,0.0,10.39
+AMpgnLwYYQdf,2025-10-24 14:56:22,1833,DE,Berlin,1222,Sport,Randonnée,34.57,1,,paypal,mobile,web,tiktok,0,,paid,,0.0,3.9
+juqHLjpVzsHF,2025-10-20 09:45:36,1314,MA,Casablanca,1232,Sport,Randonnée,25.1,1,,crypto,tablet,web,friend,0,,paid,"Livraison express, signature exigée",0.0,6.23
+0qnLV5O70H86,2025-10-24 22:02:17,1525,US,Boston,1257,Beauté,Soins,17.22,1,STUDENT,card,desktop,app,newsletter,0,,paid,,5.19,2.05
+AfxxhM0zA0f3,2025-10-21 19:06:01,282,MA,Casablanca,1031,Électronique,Écouteurs,61.94,1,BLACKFRIDAY,crypto,mobile,app,google,0,,paid,,2.63,8.59
+TIRsG5nrXifr,2025-10-24 22:20:43,1885,DE,Munich,1042,Électronique,Tablettes,23.15,1,STUDENT,card,tablet,web,tiktok,0,,failed,,6.88,0.83
+GVGZAY3QK5mH,2025-10-19 21:09:50,658,CA,Montréal,1226,Sport,Randonnée,25.33,1,,card,mobile,web,instagram,0,,pending,,0.0,0.0
+yHiBbpM30ar9,2025-10-25 06:33:51,480,DE,Berlin,1075,Maison,Cuisine,37.0,3,,interac,mobile,web,newsletter,0,,paid,"Adresse incomplète, revoir 📦",0.0,9.46
+Wex9JRy62U51,2025-10-21 02:14:49,1491,FR,Marseille,1007,Électronique,Téléphones,36.01,5,WELCOME10,paypal,mobile,marketplace,direct,0,,paid,⚠️ Douanes: formulaire requis,5.91,9.27
+5Mv1dg0gHael,2025-10-23 21:41:44,278,FR,Lyon,1271,Beauté,Maquillage,11.97,5,WELCOME10,crypto,mobile,web,google,0,,paid,,6.59,3.06
+VkI7a2N1wqtu,2025-10-21 11:12:08,1155,CA,Vancouver,1257,Beauté,Soins,17.22,2,,crypto,tablet,app,direct,0,,paid,,0.0,4.17
+zRzhYqJQH8XR,2025-10-18 04:09:51,1105,CA,Gatineau,1195,Sport,Fitness,29.74,1,WELCOME10,interac,mobile,web,instagram,0,,paid,,8.14,3.14
+cMRMmflZvubT,2025-10-25 21:57:58,1337,CA,Vancouver,1019,Électronique,Téléphones,12.11,1,WELCOME10,card,mobile,web,direct,0,,paid,,1.71,6.26
+Z1FCxVPb9ETJ,2025-10-22 21:37:37,920,DE,Hamburg,1283,Beauté,Cheveux,13.21,1,,crypto,mobile,web,tiktok,0,,paid,,0.0,7.43
+bkJl7HXCbEkD,2025-10-25 17:07:56,1069,US,New York,1039,Électronique,Écouteurs,27.07,1,,card,desktop,app,instagram,0,,paid,,0.0,2.42
+xdsplvJPsD0j,2025-10-24 14:37:58,1897,MA,Casablanca,1050,Électronique,Tablettes,28.85,1,,paypal,mobile,web,friend,0,,paid,,0.0,10.44
+psbCWMW1ItpQ,2025-10-22 11:06:06,1313,US,Seattle,1285,Beauté,Cheveux,9.24,1,WELCOME10,crypto,desktop,app,friend,0,,paid,,3.27,17.46
+fvvnI5stg6IT,2025-10-23 05:20:09,1907,FR,Paris,1250,Beauté,Soins,13.06,5,,interac,mobile,web,direct,0,,paid,⚠️ Douanes: formulaire requis,0.0,6.79
+xx2X4ifzUnLw,2025-10-19 05:07:20,379,DE,Munich,1297,Beauté,Cheveux,28.61,1,STUDENT,paypal,desktop,web,direct,0,,paid,,4.92,9.58
+gsGqrTreyEji,2025-10-22 13:26:01,1902,CA,Toronto,1084,Maison,Décoration,16.37,5,BLACKFRIDAY,crypto,mobile,app,google,0,,paid,,2.52,10.26
+gFs7XJYZiwFl,2025-10-22 16:54:30,621,US,Seattle,1236,Sport,Randonnée,8.91,1,,interac,desktop,boutique,google,0,,paid,,0.0,3.77
+esX46yuLcCsz,2025-10-16 03:33:05,1871,MA,Marrakech,1096,Maison,Décoration,28.45,1,BLACKFRIDAY,paypal,mobile,app,direct,0,,paid,"Client a dit: ""excellent, merci !""",1.65,5.11
+eaalHoiz10XY,2025-10-25 20:35:49,1276,CA,Québec,1236,Sport,Randonnée,8.91,1,ÉTÉ2025,crypto,tablet,web,tiktok,0,,paid,,4.54,6.74
+beWDnN3r5Ngk,2025-10-25 18:33:28,1095,MA,Rabat,1030,Électronique,Écouteurs,18.16,1,BLACKFRIDAY,interac,mobile,web,friend,0,,paid,,4.67,8.03
+NlQoRT6KLCpv,2025-10-22 09:29:26,631,US,New York,1214,Sport,Cyclisme,20.95,1,BLACKFRIDAY,paypal,desktop,boutique,google,0,,pending,,3.44,13.44
+ynhkp09sCkdC,2025-10-24 08:56:16,1495,MA,Rabat,1287,Beauté,Cheveux,32.92,1,WELCOME10,crypto,mobile,web,google,0,,pending,,0.72,11.95
+ZAN1qtjEY7vn,2025-10-16 13:09:01,579,US,San Francisco,1198,Sport,Fitness,25.26,3,ÉTÉ2025,crypto,desktop,boutique,tiktok,0,,pending,,0.76,11.1
+ZQ869Gwurh0t,2025-10-21 09:06:49,1555,DE,Munich,1067,Maison,Cuisine,40.52,1,WELCOME10,paypal,desktop,web,direct,0,,paid,,2.21,6.72
+FcuXKU70rZ84,2025-10-16 08:57:19,1621,US,Seattle,1261,Beauté,Maquillage,23.81,1,ÉTÉ2025,paypal,mobile,web,tiktok,0,,paid,,7.49,0.16
+glGslzdrilyq,2025-10-24 07:44:16,43,MA,Casablanca,1224,Sport,Randonnée,19.38,1,BLACKFRIDAY,crypto,mobile,app,friend,0,,paid,,4.04,4.11
+J2WjUbousHkj,2025-10-25 06:33:06,1400,US,New York,1260,Beauté,Maquillage,15.43,1,,interac,desktop,app,newsletter,1,,paid,,0.0,10.58
+ClPbIxQeWQTO,2025-10-24 05:26:41,1986,US,Seattle,1235,Sport,Randonnée,33.68,2,,interac,mobile,boutique,tiktok,0,,paid,,0.0,6.09
+GdCeiNdeV8NH,2025-10-22 08:59:28,1891,DE,Berlin,1019,Électronique,Téléphones,12.11,3,STUDENT,crypto,mobile,app,tiktok,0,,paid,"Livraison express, signature exigée",5.04,4.44
+ujKNzUjTr5XG,2025-10-16 03:50:12,1384,CA,Montréal,1065,Maison,Cuisine,48.33,2,,crypto,desktop,marketplace,friend,0,,paid,,0.0,10.88
+zfe7VnLqyxPw,2025-10-16 10:27:55,992,MA,Casablanca,1146,Mode,Vêtements,13.22,1,BLACKFRIDAY,crypto,tablet,app,tiktok,0,,paid,,2.24,9.77
+QL2qLiKAWQsv,2025-10-17 07:01:08,669,MA,Rabat,1211,Sport,Cyclisme,43.28,2,ÉTÉ2025,card,tablet,web,tiktok,0,,paid,,9.65,4.76
+S9EY3weegUYE,2025-10-24 17:19:44,940,CA,Québec,1167,Mode,Accessoires,63.33,3,,card,mobile,app,google,0,,paid,,0.0,7.02
+H9I5WuI9lsG7,2025-10-19 17:49:17,1020,CA,Ottawa,1115,Maison,Literie,28.52,3,,paypal,mobile,marketplace,newsletter,0,,paid,,0.0,11.75
+2Qa0QY0QQjlD,2025-10-18 18:01:29,92,FR,Paris,1190,Sport,Fitness,19.62,1,,card,mobile,app,direct,0,,refunded,,0.0,12.31
+qLRUMqroNPrJ,2025-10-18 22:46:22,1847,DE,Munich,1080,Maison,Décoration,21.98,5,STUDENT,crypto,desktop,web,newsletter,0,,paid,,6.84,1.89
+gVvee4r80qWe,2025-10-18 12:12:22,816,FR,Marseille,1298,Beauté,Cheveux,36.83,3,BLACKFRIDAY,interac,mobile,web,instagram,0,,paid,,4.91,3.38
+BkjqcMrIb59w,2025-10-21 04:02:23,945,US,Boston,1082,Maison,Décoration,51.36,3,WELCOME10,crypto,mobile,web,google,0,,paid,"Client a dit: ""excellent, merci !""",7.91,2.39
+q2Lrsz6oWCHl,2025-10-18 21:40:34,1184,FR,Toulouse,1055,Électronique,Tablettes,39.08,3,STUDENT,card,tablet,app,tiktok,0,,paid,,0.2,7.25
+VirGmGjWnYSH,2025-10-25 05:22:05,1932,DE,Berlin,1280,Beauté,Cheveux,25.97,5,WELCOME10,crypto,tablet,app,direct,0,,refunded,,2.81,6.82
+G9fwlJq6P9DJ,2025-10-24 07:14:19,372,US,San Francisco,1075,Maison,Cuisine,37.0,5,,card,desktop,web,tiktok,0,,pending,,0.0,5.35
+UP1qIkzO7fCu,2025-10-18 03:37:03,1957,DE,Berlin,1047,Électronique,Tablettes,41.62,1,BLACKFRIDAY,interac,desktop,app,direct,0,,paid,,9.55,8.66
+aFuXTvSPwUeT,2025-10-25 04:01:25,1189,US,Boston,1032,Électronique,Écouteurs,24.37,1,WELCOME10,paypal,desktop,app,tiktok,0,,pending,,4.78,3.69
+nC3cMtRRqZoG,2025-10-19 05:36:34,1306,MA,Rabat,1017,Électronique,Téléphones,28.71,1,,interac,mobile,web,tiktok,0,,paid,,0.0,0.0
+J5p5usAPQwA1,2025-10-24 07:02:57,935,DE,Berlin,1111,Maison,Literie,24.21,2,,card,mobile,web,tiktok,0,,paid,,0.0,8.25
+OKkGlHHnLsFr,2025-10-16 01:50:53,618,US,San Francisco,1135,Mode,Chaussures,53.25,2,,interac,mobile,web,instagram,0,,refunded,,0.0,4.32
+RYcxQnrnZzzv,2025-10-24 13:33:01,1577,MA,Casablanca,1254,Beauté,Soins,11.48,1,,interac,desktop,web,friend,0,,pending,"Adresse incomplète, revoir 📦",0.0,3.59
+ZhLOWyE3pVRW,2025-10-18 18:02:02,1811,MA,Rabat,1246,Beauté,Soins,19.35,1,BLACKFRIDAY,crypto,tablet,web,newsletter,0,,paid,,8.42,13.74
+XHHo5B4y1qyZ,2025-10-21 09:12:51,595,FR,Lyon,1044,Électronique,Tablettes,11.71,5,,interac,mobile,app,friend,0,,paid,,0.0,5.48
+eA3yqIjbk7Pd,2025-10-18 18:21:47,290,MA,Marrakech,1082,Maison,Décoration,51.36,3,,card,mobile,web,newsletter,1,,paid,,0.0,4.81
+hp8NgUBx16Es,2025-10-23 05:08:19,358,DE,Hamburg,1245,Beauté,Soins,20.75,1,,paypal,desktop,marketplace,newsletter,0,,paid,⚠️ Douanes: formulaire requis,0.0,6.74
+pUnD9XtkLz3M,2025-10-18 11:48:58,1538,DE,Hamburg,1149,Mode,Vêtements,28.46,5,,paypal,mobile,web,direct,0,,paid,,0.0,10.66
+l0QsRH9Suy7m,2025-10-20 13:23:44,1139,MA,Casablanca,1242,Beauté,Soins,31.58,3,,card,mobile,web,direct,0,,paid,,0.0,4.14
+gxJjGp4fHhDw,2025-10-16 00:22:08,79,US,Seattle,1039,Électronique,Écouteurs,27.07,1,,paypal,tablet,boutique,tiktok,0,,paid,,0.0,0.48
+PEyUNt2SKThX,2025-10-19 10:18:17,1889,FR,Lyon,1187,Sport,Fitness,23.66,1,BLACKFRIDAY,paypal,mobile,marketplace,instagram,0,,paid,,2.33,0.0
+VRwzrS4J4GZ2,2025-10-18 21:58:29,852,CA,Montréal,1065,Maison,Cuisine,48.33,1,,interac,tablet,web,direct,0,,refunded,,0.0,1.96
+0Wd5EFNQORKd,2025-10-19 06:48:31,415,DE,Hamburg,1283,Beauté,Cheveux,13.21,1,ÉTÉ2025,interac,mobile,web,instagram,1,,paid,,3.91,0.84
+s6PufvZN8dTz,2025-10-22 11:26:10,697,FR,Lyon,1012,Électronique,Téléphones,27.69,1,,card,mobile,marketplace,newsletter,0,,paid,⚠️ Douanes: formulaire requis,0.0,7.15
+r5kMtNLk5Z3f,2025-10-25 15:42:34,195,US,San Francisco,1062,Maison,Cuisine,14.11,2,WELCOME10,card,mobile,boutique,direct,0,,paid,,5.57,0.0
+vkiDU1bLuc5U,2025-10-16 18:56:55,1237,CA,Gatineau,1278,Beauté,Maquillage,25.4,1,WELCOME10,crypto,mobile,app,google,0,,paid,,0.24,18.86
+CkZVIFLzNSc6,2025-10-19 18:44:11,159,DE,Munich,1045,Électronique,Tablettes,17.12,1,WELCOME10,card,mobile,web,friend,0,,paid,,8.46,11.11
+AGnpqMVvI1Ji,2025-10-21 09:44:45,733,FR,Paris,1195,Sport,Fitness,29.74,1,WELCOME10,card,mobile,web,direct,0,,paid,,2.85,5.05
+z6DN2wQyQFP3,2025-10-24 22:36:49,638,US,New York,1278,Beauté,Maquillage,25.4,1,WELCOME10,card,desktop,web,friend,0,,refunded,,5.82,9.72
+xFT9chkVijRw,2025-10-21 05:22:20,128,DE,Munich,1087,Maison,Décoration,28.92,1,,crypto,desktop,web,friend,0,,paid,,0.0,8.38
+jZTnvRSHDSoU,2025-10-18 05:41:10,141,MA,Marrakech,1186,Sport,Fitness,31.08,1,,card,mobile,app,newsletter,0,,paid,"Client a dit: ""excellent, merci !""",0.0,8.17
+ZMnHhhBkUAHU,2025-10-18 16:51:00,550,MA,Casablanca,1080,Maison,Décoration,21.98,2,,crypto,mobile,app,friend,0,,failed,⚠️ Douanes: formulaire requis,0.0,3.81
+SjujOeUziqXr,2025-10-17 00:23:03,1209,CA,Vancouver,1283,Beauté,Cheveux,13.21,1,,card,mobile,web,google,0,,paid,,0.0,9.89
+It1fTtyENmPg,2025-10-25 23:35:26,1918,MA,Casablanca,1290,Beauté,Cheveux,22.11,1,,paypal,mobile,web,direct,0,,paid,,0.0,10.8
+eZN1JujWdFkg,2025-10-16 11:13:51,1820,MA,Casablanca,1247,Beauté,Soins,17.7,2,,crypto,mobile,app,instagram,0,,paid,,0.0,7.56
+ZPN2eIhQA3Xz,2025-10-23 17:53:24,1060,MA,Rabat,1058,Électronique,Tablettes,28.95,2,,card,mobile,web,direct,0,,failed,,0.0,11.24
+qr3a8LkW6gdf,2025-10-22 05:41:18,608,MA,Rabat,1237,Sport,Randonnée,26.93,1,,interac,mobile,web,direct,0,,failed,,0.0,18.13
+Fuvz3LnCU25p,2025-10-24 19:18:19,87,FR,Lyon,1101,Maison,Literie,19.88,3,,interac,mobile,web,friend,0,,paid,"Livraison express, signature exigée",0.0,12.44
+jLTJrP2fMHcN,2025-10-23 22:18:55,1665,CA,Québec,1141,Mode,Vêtements,47.16,1,,interac,mobile,web,google,1,,paid,,0.0,9.7
+TKxlALoOBnpH,2025-10-17 20:04:42,720,CA,Gatineau,1010,Électronique,Téléphones,19.46,1,,interac,mobile,boutique,friend,0,,paid,,0.0,4.47
+7Yv4WRSWdQuO,2025-10-17 06:51:44,748,CA,Toronto,1099,Maison,Décoration,21.82,1,WELCOME10,interac,desktop,web,instagram,0,,failed,"Client a dit: ""excellent, merci !""",6.54,7.08
+vCsL2EOLbnk2,2025-10-24 15:13:30,1844,MA,Rabat,1003,Électronique,Téléphones,52.54,1,,crypto,mobile,web,newsletter,0,,paid,,0.0,6.84
+hIxA1blIEtz5,2025-10-20 19:57:41,1225,FR,Paris,1261,Beauté,Maquillage,23.81,-1,,card,tablet,web,friend,1,2025-10-22,paid,,0.0,11.82
+X1zfGrhN1hxn,2025-10-23 03:28:17,626,FR,Marseille,1121,Mode,Chaussures,15.57,2,,interac,mobile,boutique,tiktok,0,,paid,,0.0,6.8
+WwcfH1kjJxDt,2025-10-24 05:05:28,586,FR,Lyon,1004,Électronique,Téléphones,21.82,1,BLACKFRIDAY,card,desktop,app,instagram,0,,paid,,3.96,6.94
+pWE6EuznMeDi,2025-10-19 01:58:49,99,FR,Paris,1096,Maison,Décoration,28.45,1,ÉTÉ2025,interac,mobile,app,friend,0,,paid,"Adresse incomplète, revoir 📦",2.95,6.3
+S7aV52fiU5Ic,2025-10-22 23:17:02,1344,MA,Marrakech,1150,Mode,Vêtements,27.81,3,,paypal,mobile,web,friend,0,,pending,,0.0,15.31
+ZLejHTU0xNuE,2025-10-20 22:16:22,740,US,Boston,1150,Mode,Vêtements,27.81,2,,interac,mobile,web,instagram,0,,paid,,0.0,5.12
+R2QJlID7Lwrc,2025-10-20 17:07:36,343,DE,Hamburg,1250,Beauté,Soins,13.06,1,WELCOME10,paypal,desktop,web,direct,0,,pending,,2.25,8.68
+FzipiMJ9XBz0,2025-10-23 04:39:09,1665,MA,Marrakech,1198,Sport,Fitness,25.26,3,,interac,mobile,web,direct,0,,paid,,0.0,8.41
+ANmSSa4Dhax0,2025-10-19 10:23:36,1264,DE,Berlin,1021,Électronique,Écouteurs,21.91,1,,crypto,mobile,marketplace,friend,0,,paid,,0.0,8.27
+U4HrB1mjMVag,2025-10-17 15:41:53,1926,MA,Casablanca,1076,Maison,Cuisine,25.62,1,BLACKFRIDAY,paypal,mobile,web,google,0,,paid,,5.61,10.84
+BsJIXtHhD2zc,2025-10-16 09:23:18,1845,FR,Lyon,1175,Mode,Accessoires,37.1,1,,card,mobile,web,instagram,0,,paid,,0.0,3.51
+SrnVOH7MdHEp,2025-10-18 15:18:30,1913,DE,Hamburg,1010,Électronique,Téléphones,19.46,1,,interac,desktop,web,tiktok,0,,failed,,0.0,7.08
+eAiFy6GQpSqS,2025-10-20 01:27:33,266,FR,Toulouse,1023,Électronique,Écouteurs,12.03,1,,paypal,desktop,marketplace,direct,0,,pending,,0.0,3.0
+wJ6QIFhgvgL5,2025-10-21 09:32:19,235,CA,Montréal,1239,Sport,Randonnée,37.57,3,,card,mobile,marketplace,newsletter,0,,refunded,,0.0,3.53
+NtQEE2uuOpAt,2025-10-19 09:12:34,716,MA,Marrakech,1024,Électronique,Écouteurs,18.69,1,,card,desktop,web,instagram,0,,failed,,0.0,8.07
+izF63CjCNxbJ,2025-10-23 20:17:18,1582,CA,Ottawa,1171,Mode,Accessoires,16.32,1,BLACKFRIDAY,paypal,desktop,app,newsletter,0,,paid,,9.02,9.78
+2JvrKbbMaN3W,2025-10-24 00:36:27,534,CA,Vancouver,1186,Sport,Fitness,31.08,1,,interac,desktop,boutique,newsletter,0,,refunded,,0.0,6.42
+CGjmhVafhhr3,2025-10-22 17:06:55,1407,MA,Rabat,1136,Mode,Chaussures,16.58,1,BLACKFRIDAY,interac,tablet,app,newsletter,0,,paid,"Adresse incomplète, revoir 📦",6.73,5.2
+vInXByTrfmWY,2025-10-23 11:51:20,758,US,New York,1033,Électronique,Écouteurs,14.46,1,WELCOME10,crypto,mobile,web,friend,0,,refunded,,3.66,11.79
+f20eXSrsVmhF,2025-10-24 04:40:13,1793,DE,Berlin,1164,Mode,Accessoires,39.71,1,STUDENT,paypal,mobile,web,newsletter,0,,paid,,0.26,13.84
+3BfdsYCHuJiv,2025-10-21 22:02:15,645,DE,Berlin,1295,Beauté,Cheveux,17.35,1,WELCOME10,interac,mobile,app,friend,0,,paid,,1.81,7.58
+U4qwnd07zsVi,2025-10-24 17:33:04,654,CA,Montréal,1098,Maison,Décoration,24.6,1,ÉTÉ2025,paypal,mobile,boutique,direct,0,,paid,,7.43,9.02
+RZIdMPATZv0K,2025-10-16 17:08:31,789,DE,Munich,1295,Beauté,Cheveux,17.35,1,BLACKFRIDAY,card,mobile,web,google,0,,pending,,6.88,9.69
+bpmz2UeteTh1,2025-10-23 04:32:51,977,FR,Toulouse,1275,Beauté,Maquillage,30.91,3,BLACKFRIDAY,paypal,mobile,app,newsletter,0,,paid,,5.03,10.47
+e7ybSAkJkniy,2025-10-23 12:15:57,1937,MA,Rabat,1103,Maison,Literie,16.43,1,,crypto,mobile,web,google,0,,paid,,0.0,13.47
+D5mYn1qiPEKo,2025-10-24 18:05:07,1461,DE,Berlin,1164,Mode,Accessoires,39.71,5,,interac,mobile,app,instagram,0,,paid,,0.0,14.29
+kXFVctyOM7wU,2025-10-25 22:45:28,412,CA,Gatineau,1144,Mode,Vêtements,27.94,1,STUDENT,crypto,tablet,web,google,0,,paid,,8.18,7.84
+qdS5JZ08uauI,2025-10-17 05:21:31,929,DE,Berlin,1047,Électronique,Tablettes,41.62,1,BLACKFRIDAY,interac,mobile,boutique,friend,0,,paid,"Livraison express, signature exigée",7.06,13.32
+KLTFpP2PmU0k,2025-10-21 13:59:04,1055,CA,Montréal,1122,Mode,Chaussures,49.47,3,,interac,mobile,marketplace,instagram,0,,paid,"Promo appliquée, vérifier le cumul",0.0,3.81
+4s7eEODnuUpe,2025-10-24 16:25:17,1722,MA,Casablanca,1202,Sport,Cyclisme,42.16,1,,crypto,mobile,web,newsletter,0,,paid,,0.0,14.5
+AWpn2SqpZfwD,2025-10-24 07:49:31,1569,DE,Hamburg,1109,Maison,Literie,23.64,1,,crypto,desktop,app,friend,0,,failed,,0.0,8.98
+kNRFl6XF6rnT,2025-10-20 07:20:07,761,US,Boston,1065,Maison,Cuisine,48.33,5,BLACKFRIDAY,interac,mobile,app,google,0,,paid,"Promo appliquée, vérifier le cumul",1.89,7.74
+52HkoQk9krhr,2025-10-17 00:20:02,1210,FR,Toulouse,1140,Mode,Vêtements,27.49,2,WELCOME10,paypal,mobile,web,newsletter,0,,paid,"Livraison express, signature exigée",3.62,2.36
+Cd5GH82eWboU,2025-10-22 15:06:52,525,US,San Francisco,1099,Maison,Décoration,21.82,1,,crypto,mobile,web,instagram,0,,paid,,0.0,11.79
+Jp0Mn3sEYxR9,2025-10-17 07:20:18,1520,DE,Berlin,1243,Beauté,Soins,37.82,1,,crypto,mobile,web,google,0,,paid,"Livraison express, signature exigée",0.0,6.31
+P6W8F7hhI05g,2025-10-20 14:47:23,1073,FR,Paris,1295,Beauté,Cheveux,17.35,2,,interac,mobile,web,newsletter,0,,paid,,0.0,0.77
+407xtXlmx8dm,2025-10-17 07:14:25,1746,FR,Marseille,1077,Maison,Cuisine,21.13,2,STUDENT,paypal,mobile,web,tiktok,0,,paid,,2.8,8.99
+LQtsdScmMEtZ,2025-10-22 04:38:38,1066,CA,Vancouver,1172,Mode,Accessoires,23.6,1,,interac,tablet,app,direct,0,,paid,,0.0,4.75
+UGOwevOzcKBI,2025-10-17 11:39:45,1047,DE,Berlin,1043,Électronique,Tablettes,21.1,1,,card,desktop,web,direct,0,,refunded,,0.0,5.26
+2HerQfIlYHVT,2025-10-21 23:23:08,1320,CA,Montréal,1132,Mode,Chaussures,14.42,1,,crypto,mobile,marketplace,google,0,,pending,,0.0,8.63
+BdQy3JXKJTWy,2025-10-22 00:38:02,806,US,New York,1248,Beauté,Soins,59.31,1,,interac,tablet,web,direct,0,,refunded,,0.0,10.44
+ZfiSvcuHRFHn,2025-10-21 23:46:59,1846,CA,Gatineau,1080,Maison,Décoration,21.98,1,,crypto,mobile,app,tiktok,0,,paid,,0.0,15.14
+eT3OxKRhFsah,2025-10-23 07:27:15,398,US,Seattle,1165,Mode,Accessoires,30.16,1,BLACKFRIDAY,card,tablet,app,friend,0,,paid,,7.24,5.23
+J5ymDITZfFxT,2025-10-16 01:24:10,727,FR,Marseille,1296,Beauté,Cheveux,38.47,2,,interac,mobile,web,newsletter,0,,paid,"Adresse incomplète, revoir 📦",0.0,10.53
+dBfgaJAk9O5b,2025-10-17 20:23:45,203,MA,Rabat,1283,Beauté,Cheveux,13.21,-1,WELCOME10,interac,mobile,web,instagram,1,2025-10-28,paid,,13.44,3.45
+GgFri3e6ikmw,2025-10-16 02:42:02,804,CA,Ottawa,1024,Électronique,Écouteurs,18.69,5,STUDENT,paypal,mobile,web,newsletter,0,,paid,,1.34,5.66
+mWZnYwPfBIoP,2025-10-20 15:12:17,1790,FR,Paris,1048,Électronique,Tablettes,29.13,1,STUDENT,card,desktop,app,friend,0,,paid,,3.31,8.86
+qAO4ZqWiVDXc,2025-10-17 03:43:37,1515,MA,Casablanca,1077,Maison,Cuisine,21.13,1,STUDENT,paypal,mobile,web,tiktok,0,,paid,⚠️ Douanes: formulaire requis,6.1,6.31
+744f6ZvAXqF2,2025-10-18 01:23:40,1580,DE,Berlin,1279,Beauté,Maquillage,20.23,2,,card,mobile,web,friend,0,,paid,,0.0,11.65
+llYTqGhA6yiQ,2025-10-24 09:18:11,1620,MA,Casablanca,1283,Beauté,Cheveux,13.21,1,WELCOME10,interac,tablet,marketplace,instagram,0,,paid,,7.7,0.0
+M95TGB9B5P3F,2025-10-22 15:22:54,1241,DE,Hamburg,1281,Beauté,Cheveux,34.16,1,ÉTÉ2025,interac,mobile,app,instagram,0,,paid,,0.81,8.04
+T1DthqgD3tMo,2025-10-25 09:30:32,601,FR,Paris,1060,Maison,Cuisine,19.31,5,WELCOME10,paypal,mobile,app,friend,0,,paid,,0.62,12.31
+geQv9ygPtOOh,2025-10-19 10:09:37,892,MA,Casablanca,1252,Beauté,Soins,70.89,1,STUDENT,paypal,tablet,web,friend,0,,pending,,6.29,6.38
+OXvjTkXTY6Ti,2025-10-21 18:16:39,719,FR,Toulouse,1295,Beauté,Cheveux,17.35,3,,interac,mobile,app,direct,0,,paid,,0.0,6.99
+9uFwy2XaXdRV,2025-10-18 17:20:44,988,CA,Toronto,1209,Sport,Cyclisme,168.4,2,ÉTÉ2025,paypal,mobile,app,tiktok,0,,paid,,8.13,5.82
+8vHYOxzRgb5h,2025-10-17 16:58:01,426,FR,Lyon,1040,Électronique,Tablettes,35.49,1,,interac,desktop,web,instagram,0,,paid,,0.0,15.67
